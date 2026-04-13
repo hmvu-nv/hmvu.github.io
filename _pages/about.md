@@ -187,5 +187,15 @@ Phuong Nam Dao, Quang Phat Nguyen. **Manh Hung Vu**
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- *2024.10 - present*, Applied Scientist, [NVIDIA](https://developer.nvidia.com/metropolis), Vietnam.
+
+<div class='paper-box exp-box'><div class='paper-box-image'><div><img src='images/Logo-nvidia-transparent-PNG.png' alt="NVIDIA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Applied Scientist** | *2024.10 - present*
+
+[NVIDIA](https://developer.nvidia.com/metropolis), Vietnam
+
+</div>
+</div>
+
 - *2023.07 - 2024.09*, AI Engineer, [VINBIGDATA](https://vingroup.net/en), Vietnam
