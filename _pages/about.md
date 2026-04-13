@@ -188,7 +188,7 @@ Phuong Nam Dao, Quang Phat Nguyen. **Manh Hung Vu**
 
 # 💻 Experiences
 
-<div class='paper-box exp-box'><div class='paper-box-image'><div><img src='images/Logo-nvidia-transparent-PNG.png' alt="NVIDIA" width="100%"></div></div>
+<div class='paper-box exp-box'><div class='paper-box-image'><div><img src='images/Nvidia_logo.svg.png' alt="NVIDIA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Applied Scientist** | *2024.10 - present*
