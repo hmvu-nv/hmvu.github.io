@@ -198,4 +198,12 @@ Phuong Nam Dao, Quang Phat Nguyen. **Manh Hung Vu**
 </div>
 </div>
 
-- *2023.07 - 2024.09*, AI Engineer, [VINBIGDATA](https://vingroup.net/en), Vietnam
+<div class='paper-box exp-box'><div class='paper-box-image'><div><img src='images/vinbig.webp' alt="VinBigdata" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AI Engineer** | *2023.07 - 2024.09*
+
+[VINBIGDATA](https://vingroup.net/en), Vietnam
+
+</div>
+</div>
